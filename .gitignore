@@ -1,0 +1,5 @@
+# Ignore the build directory
+build/
+
+# Ignore the glm-master directory
+glm-master/
