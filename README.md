@@ -7,15 +7,11 @@ This project simulates balls moving inside a sphere using **CMake** and **SFML**
 
 ## Features
 - **Ball Simulation**: Simulates small balls inside a larger sphere, with adjustable ball size and gravity.
-- **Gravity System**: Easily toggle gravity on/off during the simulation.
+- **Gravity System**: Easily adjust gravity for the simulation.
 - **Customizable Settings**: Change the size of the balls, gravity strength, and more by adjusting constants in the code.
 
 ## How to Use
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/ball-simulation.git
-   cd ball-simulation
-   ```
+1. **Clone the Repository**
 
 2. **Build the Project**:
    Ensure you have CMake and SFML installed.
@@ -32,7 +28,6 @@ This project simulates balls moving inside a sphere using **CMake** and **SFML**
    ./BallSimulation
    ```
 
-4. **Toggle Gravity**: Press the **`G`** key during the simulation to turn gravity on or off.
 
 ## Customization
 
